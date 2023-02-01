@@ -38,6 +38,7 @@ int main(){
 
     }else{
         printf("File could not be opened\n");
+        exit(1);
     }
 
     return 0;
