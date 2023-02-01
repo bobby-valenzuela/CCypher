@@ -2,7 +2,7 @@
 
 Caesar Cipher - emphasis on the C 🙂
 
-This accepts a message and runs it though a Caesar Cipher based on the ROT-13 Cipher. After encoding your message the ciphertext is written to a file name 'encoded.txt'.
+This accepts a message and runs it though a Caesar Cipher based on the ROT-13 Cipher. After encoding your message the ciphertext is written to a file named 'encoded.txt' in the working directory.
 
 Compile with: `gcc -o CCipher CCipher.c`
 
